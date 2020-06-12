@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1578520089 source:c:\a&dproject1\main.cpp
+	<bits/stdc++.h>
+	<queue>
+	<iostream>
+	<fstream>
+	<map>
+	<vector>
+	<algorithm>
+	<stdlib.h>
+	<time.h>
+
